@@ -1,0 +1,2 @@
+**PAL DAS MONTHLY FINALS**
+[Twitch](https://www.twitch.tv/paldastetris) | [Discord](https://discord.gg/BKSPJADQpP) | [Bracket](https://docs.google.com/spreadsheets/d/1oF0V9P0V-fg2Ty0fTM2XouEc6NQepdu_Kcxd42-N-bI/edit?gid=704148346#gid=704148346)
