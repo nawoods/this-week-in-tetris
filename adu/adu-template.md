@@ -1,5 +1,5 @@
 # Almost-Daily Update: March XX, 2025
-*Numbers beside names refer to open-playstyle and DAS [Premiere Poll rankings](https://docs.google.com/document/d/1ddYqLQp5AIR3b6RwN9SxUg1Qr8MOmR-SgrhLkjXcQxY/edit?tab=t.0)*
+*Numbers beside names refer to open-playstyle and DAS [Premiere Poll rankings](https://docs.google.com/document/d/1uooeTGP5QtbZ8Z5DtetN0N56e1H6rQixL6t5YtMjsAc/edit?tab=t.0)*
 *Matchups and times may be subject to change*
 
 ## Yesterday's Tetris
@@ -20,10 +20,10 @@
 [Twitch](https://twitch.tv/monthlytetris)  |  [Discord](https://go.ctm.gg/event/ctm-february-2025/masters-event/)  |  [Bracket](https://go.ctm.gg/event/ctm-february-2025/masters-event/)
 
 **CTM DAS MASTERS**
-[Discord](https://go.ctm.gg/discord)  |  [Bracket](https://go.ctm.gg/event/ctm-das-masters-february-2025/das-masters/)
+[Twitch](https://twitch.tv/monthlytetris)  |  [Discord](https://go.ctm.gg/discord)  |  [Bracket](https://go.ctm.gg/event/ctm-das-masters-february-2025/das-masters/)
 
 **CLASSIC TETRIS LEAGUE**
-[Twitch](https://twitch.tv/classictetrisleague)  |  [Discord](https://tinyurl.com/classictetrisleague)  |  [Standings](https://ctlscoreboard.herokuapp.com)
+[Twitch](https://twitch.tv/classictetrisleague)  |  [Discord](https://tinyurl.com/classictetrisleague)  |  [Standings](https://ctlscoreboard.herokuapp.com)  |  [Playoff Bracket](https://docs.google.com/spreadsheets/d/1cs9WL5MOUrnjjbmJ-JgT-Wr2BU4fUH9XFqSwggQllE0/edit?gid=848050943#gid=848050943)
 
 **DAS CHAMPIONS LEAGUE**
 [Twitch](https://twitch.tv/dastetris)  |  [Discord](https://tinyurl.com/dcltetris)  |  [Standings](https://docs.google.com/spreadsheets/d/1nEN0MAbueG36UDkpfUsPZEmAMuKif6IcLAmJ8iZhCe8/edit?gid=810776162#gid=810776162)
@@ -33,10 +33,10 @@
 [Twitch](https://twitch.tv/monthlytetris)  |  [Discord](https://go.ctm.gg/event/ctm-february-2025/masters-event/)  |  [Bracket](https://go.ctm.gg/event/ctm-february-2025/masters-event/)
 
 **CTM DAS MASTERS**
-[Discord](https://go.ctm.gg/discord)  |  [Bracket](https://go.ctm.gg/event/ctm-das-masters-february-2025/das-masters/)
+[Twitch](https://twitch.tv/monthlytetris)  |  [Discord](https://go.ctm.gg/discord)  |  [Bracket](https://go.ctm.gg/event/ctm-das-masters-february-2025/das-masters/)
 
 **CLASSIC TETRIS LEAGUE**
-[Twitch](https://twitch.tv/classictetrisleague)  |  [Discord](https://tinyurl.com/classictetrisleague)  |  [Standings](https://ctlscoreboard.herokuapp.com)
+[Twitch](https://twitch.tv/classictetrisleague)  |  [Discord](https://tinyurl.com/classictetrisleague)  |  [Standings](https://ctlscoreboard.herokuapp.com)  |  [Playoff Bracket](https://docs.google.com/spreadsheets/d/1cs9WL5MOUrnjjbmJ-JgT-Wr2BU4fUH9XFqSwggQllE0/edit?gid=848050943#gid=848050943)
 
 **DAS CHAMPIONS LEAGUE**
 [Twitch](https://twitch.tv/dastetris)  |  [Discord](https://tinyurl.com/dcltetris)  |  [Standings](https://docs.google.com/spreadsheets/d/1nEN0MAbueG36UDkpfUsPZEmAMuKif6IcLAmJ8iZhCe8/edit?gid=810776162#gid=810776162)
