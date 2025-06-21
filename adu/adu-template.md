@@ -28,11 +28,13 @@ Jun 21  |  Singapore  |  [Twitch](https://www.twitch.tv/classictetris)  |  [Disc
 **CTM DAS MASTERS**
 [Twitch](https://twitch.tv/monthlytetris)  |  [Discord](https://go.ctm.gg/discord)  |  [Bracket](https://go.ctm.gg/event/ctm-das-masters-june-2025/das-masters/)
 
-[Twitch](https://twitch.tv/pumpyheart)  |  [Discord](https://discord.gg/MPKaJAZ9YE)  |  [Bracket & Registration](https://start.gg/1-day)
 
 **CTWC SINGAPORE**
-feat. **25 ALLENBOT**, **NEUTRISICACID**, **YOBI**
+feat. **25 ALLENBOT**, **NEUTRISICACID**, **YOBI**, **LEEPINE**
 Jun 21  |  Singapore  |  [Twitch](https://www.twitch.tv/classictetris)  |  [Discord](https://tinyurl.com/ctwcdiscord)
+
+**1 DAY**
+Jul 12  |  [Twitch](https://twitch.tv/pumpyheart)  |  [Discord](https://discord.gg/MPKaJAZ9YE)  |  [Bracket & Registration](https://start.gg/1-day)
 
 **CTWC DAS**
 Jul 17-19  |  Cologne, Germany  |  [Twitch](https://www.twitch.tv/classictetris)  |  [Discord](https://tinyurl.com/ctwcdiscord)
