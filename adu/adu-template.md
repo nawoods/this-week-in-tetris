@@ -12,9 +12,6 @@
 **CTM TAP MASTERS**  ([Bracket](https://go.ctm.gg/event/ctm-das-masters-june-2025/das-masters/))
 
 ## Today's Tetris
-**CTWC GAMESCOM**
-Aug 20-24  |  Cologne, Germany
-
 **CTM MASTERS EVENT**  ([Twitch](https://twitch.tv/monthlytetris) | [Bracket](https://go.ctm.gg/event/ctm-august-2025/masters-event/))
 
 **CTM DAS MASTERS**  ([Twitch](https://twitch.tv/monthlytetris) | [Bracket](https://go.ctm.gg/event/ctm-das-masters-august-2025/das-masters/))
@@ -31,9 +28,6 @@ Aug 20-24  |  Cologne, Germany
 **CLASSIC TETRIS LEAGUE**  ([Twitch](https://twitch.tv/classictetrisleague) | [Standings](https://ctlscoreboard.herokuapp.com))
 
 **CTM TAP MASTERS**  ([Twitch](https://twitch.tv/monthlytetris) | [Bracket](https://go.ctm.gg/event/ctm-das-masters-june-2025/das-masters/))
-
-**CTWC MINNED**
-Aug 22-24  |  Minneapolis, Minnesota, USA
 
 **CTWC JONAS CUP** (DAS)
 Oct 17-19  |  Portland, Oregon, USA
