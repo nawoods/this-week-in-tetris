@@ -17,9 +17,8 @@
 
 **CLASSIC TETRIS LEAGUE**  ([Twitch](https://twitch.tv/classictetrisleague) | [Standings](https://ctlscoreboard.herokuapp.com))
 
-**CLASSIC TETRIS EUROPEAN CHAMPIONSHIP** (PAL)
-Nov 14-16  |  Copenhagen, Denmark
-NES: https://bit.ly/CTEC2025-standings GB: https://gameboytetr.is/tournament/ctec-2025/bracket.html
+**12 DAY**
+Dec 13  |  [Signups/Bracket](https://www.start.gg/tournament/12-day/details)
 
-**1 DAY**
-Nov 22  |  [Signups/Bracket](https://www.start.gg/tournament/1-day-november-2025/details)
+**BOSTON T PARITY**
+Jan 3-4  |  Boston, Massachusetts, USA  |  [Twitch](https://twitch.tv/classictetris)
