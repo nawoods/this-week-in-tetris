@@ -43,6 +43,7 @@ Feb 6 (Qualifying start date)  |  Online  |  [Discord](https://discord.gg/GqQbDW
 Feb 13-15  |  San Jose, California, USA
 
 **CTWC REGIONALS**
+Feb 27-28  |  Vienna, Austria
 Mar 13-14  |  Phoenix, Arizona, USA
 Mar 28-29  |  Toronto, Ontario, Canada
 Apr 24-26  |  Milwaukee, Wisconsin, USA
