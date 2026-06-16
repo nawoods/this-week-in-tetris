@@ -1,26 +1,31 @@
-# This Week in Tetris: April XX, 2026
+# This Week in Tetris: May XX, 2026
 *Numbers beside names refer to open-playstyle and DAS [Premiere Poll rankings](https://premierepoll.wordpress.com/)*
 *Matchups and times may be subject to change*
 
 ## Latest Results
-**CTM MASTERS EVENT**  
-[Bracket](https://go.ctm.gg/event/ctm-april-2026/masters-event/)
+**CTM MEGA MASTERS**
+[Bracket](https://go.ctm.gg/event/ctm-may-2026/masters-event/)
 
-**CLASSIC TETRIS LEAGUE**  
+**CLASSIC TETRIS LEAGUE**
 [Standings](https://ctlscoreboard.herokuapp.com)
 
 ## Coming Soon
-**CTM MASTERS EVENT** 
-[Twitch](https://twitch.tv/monthlytetris)  |  [Bracket](https://go.ctm.gg/event/ctm-march-2026/masters-event/)
+**CTM MEGA MASTERS** 
+[Twitch](https://twitch.tv/monthlytetris)  |  [Bracket](https://go.ctm.gg/event/ctm-may-2026/masters-event/)
 
-**CLASSIC TETRIS LEAGUE**  
+**CLASSIC TETRIS LEAGUE**
 [Twitch](https://twitch.tv/classictetrisleague)  |  [Standings](https://ctlscoreboard.herokuapp.com)
 
 ## Mark Your Calendar
 **CTWC REGIONALS**
-Apr 24-26  |  Milwaukee, Wisconsin, USA
-May 1-3  |  Montpellier, France
-May 9  |  Detroit, Michigan, USA
+Jun 21  |  Singapore
+Jun 26-27  |  Philadelphia, Pennsylvania, USA
+Jul 30-31  |  Manchester, England
+Aug 3-9  |  Hanoi and Ho Chi Minh City, Vietnam
+Aug 21-23  |  Minneapolis, Minnesota, USA
 
 **THE CLASSIC TETRIS WORLD CHAMPIONSHIP**
 Jun 5-7  |  Pasadena, California, USA
+
+**CTWC DAS**
+Aug 1-2  |  Manchester, England
